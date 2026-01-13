@@ -383,8 +383,10 @@ We welcome contributions to the Defense Matrix project! Here's how you can help:
 ### Contribution Guidelines
 
 1. **Fork the Repository**
+   - Click the "Fork" button on the GitHub repository page
+   - Clone your forked repository:
    ```bash
-   git fork https://github.com/Muhammad-Usama294/Defense_Matrix.git
+   git clone https://github.com/YOUR_USERNAME/Defense_Matrix.git
    ```
 
 2. **Create a Feature Branch**
